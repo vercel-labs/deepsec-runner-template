@@ -1,0 +1,13 @@
+.next/
+.workflow/
+src/app/.well-known/
+node_modules/
+.env*
+!.env.example
+coverage/
+
+/.swc
+.vercel
+
+docs/
+.deepsec/*
